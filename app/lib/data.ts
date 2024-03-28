@@ -1,3 +1,4 @@
+//importing sql so that we can use it to fetch data from the database...
 import { sql } from '@vercel/postgres';
 import {
   CustomerField,
